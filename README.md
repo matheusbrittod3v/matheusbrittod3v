@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=Engenharia+de+software;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Lua;Web+%E2%80%A2+WebAssembly+%E2%80%A2+WebGL;Automa%C3%A7%C3%A3o+%E2%80%A2+IA+%E2%80%A2+Sistemas" alt="Texto animado com engenharia de software, linguagens e áreas de interesse">
 
-<sub>Tipografia: Orbitron + JetBrains Mono · paleta azul e ciano</sub>
+
 
 <br>
 
