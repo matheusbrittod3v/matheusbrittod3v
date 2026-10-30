@@ -26,7 +26,7 @@ Este perfil reúne projetos públicos que exploram diferentes áreas do desenvol
 
 | Projeto | Sobre |
 | --- | --- |
-| [PS2 Web Recomp](https://github.com/Matheusbritto77/ps2-web-recomp) | Jogos de PlayStation 2 no navegador usando recompilação estática e WebAssembly. |
+| [PS2 Web Recomp](https://github.com/Matheusbritto77/ps2-web-recomp) | Fork de [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) para executar jogos de PlayStation 2 no navegador usando recompilação estática e WebAssembly. |
 | [LeadExtractorAi](https://github.com/Matheusbritto77/LeadExtractorAi) | Busca e organização de leads com Gemini, WebSocket e SQLite. |
 | [usbipserv](https://github.com/Matheusbritto77/usbipserv) | Ferramenta em C para redirecionamento de dispositivos USB pela rede. |
 
